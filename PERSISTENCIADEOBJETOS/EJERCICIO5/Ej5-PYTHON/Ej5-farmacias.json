@@ -1,0 +1,53 @@
+[
+    {
+        "nombreFarmacia": "Cruz Verde",
+        "sucursal": 1,
+        "direccion": "Av. Siempre Viva 123",
+        "medicamentos": [
+            {
+                "nombre": "Golpex",
+                "codMedicamento": 101,
+                "tipo": "Dolor",
+                "precio": 25.5
+            },
+            {
+                "nombre": "Resfrix",
+                "codMedicamento": 102,
+                "tipo": "Resfrio",
+                "precio": 15.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "PharmaPlus",
+        "sucursal": 2,
+        "direccion": "Calle Falsa 456",
+        "medicamentos": [
+            {
+                "nombre": "Tosivital",
+                "codMedicamento": 201,
+                "tipo": "Tos",
+                "precio": 30.0
+            },
+            {
+                "nombre": "Frixol",
+                "codMedicamento": 202,
+                "tipo": "Resfrio",
+                "precio": 18.0
+            }
+        ]
+    },
+    {
+        "nombreFarmacia": "Farmacia Vida",
+        "sucursal": 3,
+        "direccion": "Plaza Central 789",
+        "medicamentos": [
+            {
+                "nombre": "Gripalex",
+                "codMedicamento": 301,
+                "tipo": "Resfrio",
+                "precio": 20.0
+            }
+        ]
+    }
+]

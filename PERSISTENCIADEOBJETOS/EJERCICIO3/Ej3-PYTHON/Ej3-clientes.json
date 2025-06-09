@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Paz",
+        "telefono": 78945612
+    },
+    {
+        "id": 2,
+        "nombre": "Luz Grayson",
+        "telefono": 76543210
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Rojas",
+        "telefono": 71234567
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Torres",
+        "telefono": 70112233
+    },
+    {
+        "id": 5,
+        "nombre": "Marco Dabalos",
+        "telefono": 79887766
+    }
+]
